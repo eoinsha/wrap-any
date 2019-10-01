@@ -1,0 +1,22 @@
+{
+  "name": "wrap-any",
+  "version": "1.0.0",
+  "description": "Wrap a function an respect callback or promise behavior",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "tap test/**/*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eoinsha/wrap-any.git"
+  },
+  "keywords": [],
+  "author": "Eoin Shanaghy <eoin.shanaghy@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "tap": "^14.6.9"
+  }
+}
